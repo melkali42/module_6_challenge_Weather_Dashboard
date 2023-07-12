@@ -24,12 +24,12 @@ I Used HTML, CSS, JavaScript for this challenge. I also used https://openweather
 >
 ## Usage
 
-This is the URl for the deployed application:
+This is the URl for the deployed application: https://melkali42.github.io/module_6_challenge_Weather_Dashboard/
 
-This is the URL for my GitHub repository for this challenge:
+This is the URL for my GitHub repository for this challenge:https://github.com/melkali42/module_6_challenge_Weather_Dashboard
 
-![Screenshot1](assets/images/screenshot.png)
-    ```
+![Screenshot1](https://github.com/melkali42/module_6_challenge_Weather_Dashboard/blob/main/assets/images/weather%20dashboard.PNG)
+![Screenshot2](https://github.com/melkali42/module_6_challenge_Weather_Dashboard/blob/main/assets/images/weather%20dashboard%20(2).PNG)
 
 ## Credits
 
